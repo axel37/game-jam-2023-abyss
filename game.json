@@ -87,6 +87,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/a7b22e2b822172e0535fd8db84bd25157d4679d98130347347ece30137404ea2_Clownfish_Shadow.png",
           "name": "Clownfish_Shadow.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Eel_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eel_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/5f793dc3d4653bed64c276e18950ebc65664d27bb41a52feb8bdd7913aadcff9_Eel_No Shadow.png",
+          "name": "Eel_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Eel_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eel_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Fishing Items/c70743f81591956f9858dbebb4c2a654f673376b70402111e88e5304cf5942d6_Eel_Shadow.png",
+          "name": "Eel_Shadow.png"
+        }
       }
     ],
     "resourceFolders": []
